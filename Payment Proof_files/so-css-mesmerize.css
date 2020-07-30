@@ -1,0 +1,20 @@
+.header.color-overlay:after {
+    background-color: black;
+}
+
+
+.cart-contents-content {
+  display: none;
+}
+
+.woocommerce .woocommerce-ordering select {
+  display: none;
+}
+
+
+.um-profile-nav {
+    padding: 10px;
+    background: #444;
+    text-align: center;
+    display: none;
+}
